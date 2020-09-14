@@ -3,7 +3,7 @@ FROM alpine:3.6
 ENV VER=4.23.4
 ENV PORT=8080
 ENV DOMAIN=
-ENV UUID=91cb66ba-a373-43a0-8169-33d4eeaeb857
+ENV UUID=27c8e2a4-bd74-4697-9107-445954eef922
 
 RUN apk add --no-cache curl \
   && cd /root && mkdir /v2ray \
