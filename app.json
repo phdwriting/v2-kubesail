@@ -5,10 +5,10 @@
   "env": {
     "UUID": {
        "description": "VMess client UUID",
-       "value": "91cb66ba-a373-43a0-8169-33d4eeaeb857"
+       "value": "27c8e2a4-bd74-4697-9107-445954eef922"
      }
   },
   "stack": "container",
-  "website": "https://github.com/xiaokaixuan/v2ray-heroku",
-  "repository": "https://github.com/xiaokaixuan/v2ray-heroku"
+  "website": "https://github.com/phdwriting/v2-kubesail",
+  "repository": "https://github.com/phdwriting/v2-kubesail"
  }
